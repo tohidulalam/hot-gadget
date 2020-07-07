@@ -1,0 +1,36 @@
+.carousel{
+    background-image: url("images/bg-1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+   
+    
+}
+
+.btn1{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 15px;
+    margin-top: 10px;
+}
+
+.h51{
+    color: #FFAE2E;
+}
+
+.image{
+    position: absolute;
+    bottom: -70px;
+    left: -100px;
+}
+
+.position{
+    position: relative;
+    bottom: 30px;
+}
+
+.card footer{
+    border: none;
+}
