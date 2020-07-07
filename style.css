@@ -48,3 +48,41 @@
     background-color: white;
     border-top: none;
 }
+
+.mobile{
+    margin-bottom: 70px;
+}
+
+.laptop{
+    margin-bottom: 100px;
+}
+
+.one{
+    width:100px;
+    height: 5px;
+    background-color: goldenrod;
+    margin: 0 auto;
+    border-radius: 2px;
+   
+}
+
+.two{
+    margin-bottom: 70px;
+}
+
+.cat1,.cat2-1,.cat2-2{
+    box-shadow: 3px 3px 7px lightgray;
+    padding: 30px;
+}
+
+.cat2-1{
+    margin-bottom: 30px;
+}
+
+.cat2-1,.cat2-2{
+    border-radius: 15px 5px 30px 5px;
+}
+
+.cat1{
+    border-radius: 5px 15px 5px 30px;
+}
