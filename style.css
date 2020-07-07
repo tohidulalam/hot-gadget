@@ -34,3 +34,17 @@
 .card footer{
     border: none;
 }
+
+.imgp{
+    padding: 40px 20px 0 20px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 8px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
